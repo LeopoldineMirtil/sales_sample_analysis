@@ -56,7 +56,6 @@ The annual totals were calculated with SUM and a clustered bar chart to visualiz
 #### Sales by Country
 
 A pivot table showing the total sales by country along with a side bar column chart. 
-chart.
 
 ![](CountrySales-PT.png)<!-- -->
 
